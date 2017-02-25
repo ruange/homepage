@@ -6,15 +6,17 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+**hello**  _hello_  `hello`
+
+[hello](https://ruange.github.io/homepage/)  ![hello](C:\Users\宗明\Pictures\图片\疯狂的原始人)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
-**hello**  _hello_  `hello`
 
-[hello](https://ruange.github.io/homepage/)  ![hello](C:\Users\宗明\Pictures\图片\疯狂的原始人)
 # Header 1
 ## Header 2
 ### Header 3
