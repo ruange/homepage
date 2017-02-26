@@ -1,9 +1,3 @@
-/*--
-Author: W3layouts
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
---*/
 @font-face {
     font-family: 'Nunito-Bold';
     src:url(../fonts/Nunito-Bold.ttf) format('truetype');
@@ -48,10 +42,11 @@ body{
 .header-section {
   background: #deecdf;
   text-align: center;
-    min-height: 500px;
+    min-height: 400px;
 }
-.header-section img {
-  margin-top: 7em;
+.header-section img{
+  margin-top: 2em;
+
 }
 .header-section h1 {
   font-family: 'Nunito-Bold';
@@ -101,26 +96,6 @@ span.glyphicon.glyphicon-triangle-bottom {
   color: #9CA69D;
   margin: 0 0 0 7px;
 }
-.progress {
-	margin: 10px 0;
-	 box-shadow: none;
-}
-.progress-bar-success {
-  background-color: #DEECDF;
-   box-shadow: none;
-}
-.progress-bar-info {
-  background-color: #ACB5B8;
-    box-shadow: none;
-}
-.progress-bar-warning {
-  background-color: #78B3AE;
-   box-shadow: none;
-}
-.progress-bar-danger {
-  background-color: #8C9D82;
-  box-shadow: none;
-  }
 .study-grid h4 {
   font-size: 1.3em;
   text-transform: capitalize;
@@ -167,69 +142,6 @@ font-size: 2em;
   border-radius: 50px;
   border: 2px solid;
   padding: 1em;
-}
-
-.social-icons {
-	background:#fff;
-	padding: 4em 0;
-
-}
-.social-icons h3 {
-  font-family: 'Nunito-Bold';
-  font-size: 2.5em;
-  text-transform: capitalize;
-  color: #393b3a;
-  text-align: center;
-  margin-bottom:2em;
-}
-.face p {
-  font-size: 3em;
-  color: #B4BEB9;
-  font-weight: 500;
-  margin: 0 9px;
- 
-}
-.face h4 {
-  font-size: 0.9em;
-  color: #393b3a;
-  font-weight: 500;
-  text-transform: capitalize;
-  margin-top: 1.2em;
-  cursor: pointer;
-  text-align: center;
-}
-
-i.facebook {
-  width: 64px;
-  height: 64px;
-  background: url(../images/img-sprite.png)no-repeat 0px 0px;
-  float: left;
-  vertical-align: middle;
-    margin: 0 10px;
-}
-i.twitter{
-   width: 64px;
-  height: 64px;
-  background: url(../images/img-sprite.png)no-repeat -64px 0px;
-  float: left;
-  vertical-align: middle;
-    margin: 0 10px;
-}
-i.google {
-   width: 64px;
-  height: 64px;
-  background: url(../images/img-sprite.png)no-repeat -128px 0px;
-  float: left;
-  vertical-align: middle;
-    margin: 0 10px;
-}
-i.beh {
-  width: 64px;
-  height: 64px;
-  background: url(../images/img-sprite.png)no-repeat -192px 0px;
-  float: left;
-  vertical-align: middle;
-    margin: 0 10px;
 }
 .contact-section {
   padding: 4em 0;
@@ -283,11 +195,6 @@ i.beh {
 .contact-details input[type="submit"]:hover {
   color: #fff;
   background: rgb(0, 207, 189);
-}
-.google-map iframe {
-  width: 100%;
-  height: 500px;
-  border: 0;
 }
 .footer-section{
 	padding:2em 0;
