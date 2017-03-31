@@ -1,2 +1,3 @@
-# homepage
-This website is set for Graphic Course.
+# Project I: My personal website
+
+The URL is https://ruange.github.io/homepage/ 
